@@ -1,0 +1,8 @@
+rootProject.name = 'micro-service'
+
+includeBuild 'api-gateway'
+includeBuild 'eureka-client'
+includeBuild 'eureka-client-2'
+includeBuild 'eureka-server'
+includeBuild 'config-server'
+
